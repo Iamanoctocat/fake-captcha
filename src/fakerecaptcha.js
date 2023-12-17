@@ -1,14 +1,9 @@
 
 // Function triggered when client clicks [Verify]
-function myFunction() {
-  let text;
-  let code = prompt("Please enter the code:");
-  if (code == "1234") {
-    text = "Correct!";
-  } else {
-    text = "Err. Wrong code [" + code + "] Please try again.";
-  }
-  document.getElementById("demo").innerHTML = text;
+function verifyCaptcha() {
+
+    alert("Great! Now go to website.");
+    closeVerifyWindow();
 }
 
 
