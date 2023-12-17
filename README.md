@@ -1,7 +1,7 @@
 # Fake Captcha
 Realistic reCAPTCHA lookalike widget for any web project
 ## Demo
-https://75a.github.io/fake-captcha/
+https://iamanoctocat.github.io/fake-captcha/
 
 <img src="https://raw.githubusercontent.com/m-brz/fake-captcha/main/gif-demo.gif" alt="Fake captcha demo">
 
