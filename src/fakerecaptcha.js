@@ -2,7 +2,7 @@
 // Function triggered when client clicks [Verify]
 function verifyCaptcha() {
 
-    alert("Great! Now go to website.");
+    window.location.replace(https://www.thecrystalfiles.com/the-crystal-in-the-crystal);
     closeVerifyWindow();
 }
 
