@@ -2,7 +2,7 @@
 // Function triggered when client clicks [Verify]
 function verifyCaptcha() {
 
-   location.replace("https://www.thecrystalfiles.com/the-crystal-in-the-crystal");
+   window.open("https://www.thecrystalfiles.com/the-crystal-in-the-crystal").focus();
     closeVerifyWindow();
 }
 
